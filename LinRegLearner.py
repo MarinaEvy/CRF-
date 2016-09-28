@@ -1,6 +1,4 @@
-"""
-A simple wrapper for linear regression.  (c) 2015 Tucker Balch
-"""
+
 
 import numpy as np
 
