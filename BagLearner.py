@@ -1,6 +1,7 @@
 """
 A simple wrapper for Bagging
 """
+#bagging using decision trees or linear regression
 
 import numpy as np
 import RTLearner as rt
